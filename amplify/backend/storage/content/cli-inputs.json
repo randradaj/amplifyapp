@@ -1,0 +1,14 @@
+{
+  "resourceName": "content",
+  "policyUUID": "4e7b6ded",
+  "bucketName": "content-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
